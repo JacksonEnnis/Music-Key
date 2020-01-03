@@ -1,0 +1,29 @@
+body {
+  background: rgb(26,43,60);
+}
+
+h1{
+  color: rgb(3,181,170);
+  text-align: center;
+  font-size: 40px;
+}
+
+h3{
+  color: rgb(219,254,135);
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+h4{
+  color: rgb(107,212,37);
+  font-size: 20px;
+}
+
+/*
+6BF425
+OC1B33
+7A306C
+03B5AA
+DBFF87
+*/
